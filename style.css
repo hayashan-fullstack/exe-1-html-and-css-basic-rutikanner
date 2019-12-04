@@ -1,0 +1,47 @@
+body {
+    padding-left: 20em;
+    font-family:"AdamGorry-Inline";
+    color: rgb(126, 23, 173);
+   /* text-align: center;*/
+    background-color: rgb(79, 199, 255) }
+
+  ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em }
+  h1 {
+    font-family:
+
+    "After Shok"}
+  ul.navbar li {
+    background: rgb(145, 240, 166);
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid rgb(126, 23, 173) }
+  ul.navbar a {
+    text-decoration: none }
+  a:link {
+    color: rgb(126, 23, 173) }
+  a:visited {
+    color: rgb(126, 23, 173) }
+  address {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted }
+h2 {
+  left: 9em;
+  right: 9em;
+
+}
+
+.try {
+    color:rgb(126, 23, 173);
+    background-color: rgb(146, 221, 250);
+    left: 9em;
+    width: 9em;
+    font-size:20; 
+}
